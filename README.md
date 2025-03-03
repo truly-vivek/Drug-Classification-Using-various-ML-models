@@ -55,14 +55,15 @@ By applying these algorithms to a carefully curated dataset, we identify which a
 ---
 
 ## Results
-| Algorithm          | 80:20 Accuracy | 70:30 Accuracy | 60:40 Accuracy | 50:50 Accuracy |
-|--------------------|----------------|----------------|----------------|----------------|
-| Naive Bayes        | 81.67%         | 81.67%         | 81.67%         | 81.67%         |
-| Simple K-NN        | 65.00%         | 65.00%         | 65.00%         | 65.00%         |
-| Weighted K-NN      | 70.00%         | 70.00%         | 70.00%         | 70.00%         |
-| SVM                | 85.00%         | 85.00%         | 85.00%         | 85.00%         |
 
-**Overall Highest Accuracy Algorithm**: SVM with 85% accuracy.
+| Algorithm       | 80:20 Accuracy | 70:30 Accuracy | 60:40 Accuracy | 50:50 Accuracy |
+|----------------|---------------|---------------|---------------|---------------|
+| Naive Bayes    | 81.67%        | 81.67%        | 81.67%        | 81.67%        |
+| Simple K-NN    | 65.00%        | 65.00%        | 65.00%        | 65.00%        |
+| Weighted K-NN  | 70.00%        | 70.00%        | 70.00%        | 70.00%        |
+| SVM            | 85.00%        | 85.00%        | 85.00%        | 85.00%        |
+
+**Overall Highest Accuracy Algorithm:** SVM with 85% accuracy.
 
 ---
 

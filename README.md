@@ -167,7 +167,6 @@ Contributions are welcome! Follow these steps:
 
 ## Contact Information
 - **Name**: Vivek
-- **Email**: your.email@example.com
 - **GitHub**: truly-vivek
 
 ## License

@@ -5,7 +5,7 @@ This project implements drug classification using diverse machine learning model
 
 By applying these algorithms to a carefully curated dataset, we identify which algorithm and data split ratios (e.g., 80:20, 70:30, 60:40, 50:50) result in the highest accuracy in classifying drug types.
 
-![Drug Classification](https://vivek76.pages.dev/assets/dc.png)
+![Drug Classification](https://repository-images.githubusercontent.com/779579859/45564b35-ce34-448e-80d6-bda4c54cf2a1)
 
 ---
 
